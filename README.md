@@ -13,10 +13,10 @@ Usage
 Clone the repository to your local machine using the following command:
 
 
-git clone <repository-url>
-Open the index.html file in your web browser.
+git clone <[repository-url](https://github.com/Adri2166/Counter_Program.JS.git)>
+Open the counter.html file in your web browser.
 
-Use the buttons labeled "Increase", "Decrease", and "Reset" to interact with the counter.
+Use the buttons labeled "INCREASE", "DECREASE", and "RESET" to interact with the counter.
 
 License
 This project is licensed under the MIT License.
